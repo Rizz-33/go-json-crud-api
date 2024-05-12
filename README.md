@@ -1,4 +1,4 @@
-```markdown
+
 # go-json-crud-api
 
 A simple RESTful API for managing movies written in Go, utilizing JSON for data storage and Gorilla Mux for routing.
